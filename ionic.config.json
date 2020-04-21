@@ -1,0 +1,7 @@
+{
+  "name": "IDW-U4-RASM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
